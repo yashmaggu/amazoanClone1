@@ -1,0 +1,24 @@
+{
+  "name": "amazon_clone",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+
+    "dev": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.14.9"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.1",
+    "mongodb": "^5.7.0"
+  }
+}
